@@ -14,8 +14,11 @@ from matplotlib.colors import Normalize
 import os
 import statistics as stat
 
+
 ###
-NbDS="7"     ###  Numéro du DS
+
+NbDS=input("Donner le numéro du DS")     ###  Numéro du DS
+
 
 
 
